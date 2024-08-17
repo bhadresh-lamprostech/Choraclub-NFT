@@ -1,0 +1,13 @@
+chainid: "421614"
+network: arbitrum-sepolia
+factories1155:
+  - address: "0x1111111D7f785BE18b7549bA73198779dbcD10a4"
+    startBlock: "71074819"
+protocolRewards:
+  - address: "0x9b8cEa0aE1AA8fd5c97A1D6B978342214A04A35e"
+    startBlock: "71071348"
+    version: "1"
+erc20Minter:
+  - address: "0x0B3ffa5ae8F3d5f0D2e432f775D6CB92EA79A220"
+    startBlock: "71073897"
+    version: "1"
